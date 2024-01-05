@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TXTAlbum</string>
+
+    <string name="search">Lagi mau lihat album yang mana?</string>
+    <string name="dataEmpty">Maaf Data Kosong</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+</resources>
